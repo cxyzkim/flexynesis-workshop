@@ -1,16 +1,16 @@
 # Flexynesis Workshop
 
-**Workshop site**: https://cykim-saihst.github.io/flexynesis-workshop/
+**Workshop site**: https://cxyzkim.github.io/flexynesis-workshop/
 
 | Page | Content |
 |------|---------|
-| [Introduction & Dataset](https://cykim-saihst.github.io/flexynesis-workshop/intro.html) | BRCA METABRIC dataset overview |
-| [Model Architectures](https://cykim-saihst.github.io/flexynesis-workshop/models.html) | All 5 model architectures |
-| [DataImporter Reference](https://cykim-saihst.github.io/flexynesis-workshop/data_guide.html) | Parameter guide |
-| [HyperparameterTuning Reference](https://cykim-saihst.github.io/flexynesis-workshop/hpo_guide.html) | HPO parameter guide |
-| [Evaluation Metrics](https://cykim-saihst.github.io/flexynesis-workshop/evaluation.html) | Metrics by task type |
-| [Using Your Own Data](https://cykim-saihst.github.io/flexynesis-workshop/custom_data.html) | Custom data format guide |
-| [Workshop Notebook](https://cykim-saihst.github.io/flexynesis-workshop/flexynesis_workshop.html) | Hands-on tutorial |
+| [Introduction & Dataset](https://cxyzkim.github.io/flexynesis-workshop/intro.html) | BRCA METABRIC dataset overview |
+| [Model Architectures](https://cxyzkim.github.io/flexynesis-workshop/models.html) | All 5 model architectures |
+| [DataImporter Reference](https://cxyzkim.github.io/flexynesis-workshop/data_guide.html) | Parameter guide |
+| [HyperparameterTuning Reference](https://cxyzkim.github.io/flexynesis-workshop/hpo_guide.html) | HPO parameter guide |
+| [Evaluation Metrics](https://cxyzkim.github.io/flexynesis-workshop/evaluation.html) | Metrics by task type |
+| [Using Your Own Data](https://cxyzkim.github.io/flexynesis-workshop/custom_data.html) | Custom data format guide |
+| [Workshop Notebook](https://cxyzkim.github.io/flexynesis-workshop/flexynesis_workshop.html) | Hands-on tutorial |
 
 Deep learning multi-omics integration using [flexynesis](https://github.com/BIMSBbioinfo/flexynesis).
 
@@ -45,7 +45,7 @@ pip install flexynesis jupyter
 
 ## Run
 
-1. Download [`flexynesis_workshop.ipynb`](https://github.com/cykim-saihst/flexynesis-workshop/blob/main/flexynesis_workshop.ipynb) (click "Download raw file")
+1. Download [`flexynesis_workshop.ipynb`](https://github.com/cxyzkim/flexynesis-workshop/blob/main/flexynesis_workshop.ipynb) (click "Download raw file")
 2. Run:
 
 ```bash
